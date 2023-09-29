@@ -4,6 +4,6 @@
     box-sizing: border-box;
 }
 
-div{
-    border: 2px solid red;
+.hero, header, footer{
+    background-color: #1F2937;
 }
